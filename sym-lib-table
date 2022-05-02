@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FT234XD")(type "KiCad")(uri "${KIPRJMOD}/lib/FT234XD.kicad_sym")(options "")(descr ""))
+)
